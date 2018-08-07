@@ -5,4 +5,5 @@ module.exports = {
 			"theme_styles.css"
 		]
 	}
+    
 };
