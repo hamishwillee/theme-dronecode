@@ -20,8 +20,6 @@
   "gitbook": {
     "properties": {
         "menu": {
-            "type": "array",
-            "description": "This is default menu for array!",
             "default": [
 
                   {
